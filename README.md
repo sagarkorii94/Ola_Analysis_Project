@@ -79,8 +79,25 @@ Interactive visuals and KPIs created in Power BI to display:
 
 ## Preview
 1. OverAll
+
 ![img alt](https://github.com/sagarkorii94/Ola_Analysis_Project/blob/0f991e5d8a9b08b995646356ff611e28e5b4c3ca/Preview/OverAll.png)
-2. 
+
+2. Vehicle Type
+
+![img alt](https://github.com/sagarkorii94/Ola_Analysis_Project/blob/3e29bd9a5c5a615c5fdff4fef772dc3efc287219/Preview/Vehicle%20Type.png)
+
+3. Revenue
+
+![img alt](https://github.com/sagarkorii94/Ola_Analysis_Project/blob/3e29bd9a5c5a615c5fdff4fef772dc3efc287219/Preview/Revenue.png)
+
+4. Cancellation
+
+![img alt](https://github.com/sagarkorii94/Ola_Analysis_Project/blob/3e29bd9a5c5a615c5fdff4fef772dc3efc287219/Preview/Cancellation.png)
+
+5. Ratings
+
+![img alt](https://github.com/sagarkorii94/Ola_Analysis_Project/blob/3e29bd9a5c5a615c5fdff4fef772dc3efc287219/Preview/Ratings.png)
+
 ---
 
 ## 👨‍💻 Author
