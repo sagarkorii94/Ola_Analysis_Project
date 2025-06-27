@@ -101,6 +101,5 @@ Interactive visuals and KPIs created in Power BI to display:
 ---
 
 ## 👨‍💻 Author
-
 **Saagar Kori**  
 💼 Data Analyst | AutoCAD & SQL Enthusiast | Power BI Explorer  
