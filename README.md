@@ -78,7 +78,9 @@ Interactive visuals and KPIs created in Power BI to display:
 ---
 
 ## Preview
-
+1. OverAll
+![img alt](https://github.com/sagarkorii94/Ola_Analysis_Project/blob/0f991e5d8a9b08b995646356ff611e28e5b4c3ca/Preview/OverAll.png)
+2. 
 ---
 
 ## 👨‍💻 Author
