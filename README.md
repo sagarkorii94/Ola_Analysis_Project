@@ -40,8 +40,6 @@ Assumed key tables:
 9. **Calculate the total booking value of rides completed successfully**  
 10. **List all incomplete rides along with the reason**
 
-📂 SQL scripts can be found in the [`/sql`](./sql) folder.
-
 ---
 
 ## 📊 Power BI Dashboard
@@ -59,7 +57,6 @@ Interactive visuals and KPIs created in Power BI to display:
 9. 📉 **Driver Ratings Distribution**  
 10. ⚖️ **Customer vs. Driver Ratings**
 
-📂 Power BI file is available in the [`/powerbi`](./powerbi) folder.
 
 ---
 
