@@ -77,11 +77,7 @@ Interactive visuals and KPIs created in Power BI to display:
 
 ---
 
-## 📚 Future Improvements
-
-- Integrate geolocation data for route analysis
-- Add real-time streaming data using Power BI Pro
-- Include churn prediction or customer segmentation using Python
+## Preview
 
 ---
 
